@@ -1,4 +1,4 @@
-# Hi, I’m C0ding-Craze 👋
+# Hi, I’m Abdul-Rehman(C0ding-Craze) 👋
 
 ## About Me
 
