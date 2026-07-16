@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5AF9,100:14B8A6&height=220&section=header&text=Abdul-Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Python%20Developer%20%7C%20Student%20%7C%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/abdul-rehman-41302033b">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+with+Python+🐍;Streamlit+%7C+Tkinter+%7C+Pygame;Turning+ideas+into+working+apps;Always+learning%2C+always+shipping;&font=Fira+Code&center=true&width=600&height=45&color=14B8A6&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+with+Python+%F0%9F%90%8D;Streamlit+%7C+Tkinter+%7C+Pygame;Turning+ideas+into+working+apps;Always+learning%2C+always+shipping&font=Fira+Code&center=true&width=600&height=45&color=14B8A6&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
 </a>
 
 <p>
@@ -44,12 +44,12 @@ class AbdulRehman:
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmYiIGQ9Ik02NCAxMjZjLTE2LjU2IDAtMzIuMTMtNi40NS00My44NC0xOC4xNlMyIDgwLjU2IDIgNjRzNi40NS0zMi4xMyAxOC4xNi00My44NFM0Ny40NCAyIDY0IDJzMzIuMTMgNi40NSA0My44NCAxOC4xNlMxMjYgNDcuNDQgMTI2IDY0czYuNDUgMzIuMTMtMTguMTYgNDMuODRTODAuNTYgMTI2IDY0IDEyNnoiLz48L3N2Zz4=&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMiAxOWMyLjUgMCAzLTMgNC41LTYuNVM5LjUgNSAxMiA1czMuNSA0IDUuNSA3LjVTMjAgMTkgMjIgMTkiLz48bGluZSB4MT0iMiIgeTE9IjE5IiB4Mj0iMjIiIHkyPSIxOSIvPjwvc3ZnPg==" height="25"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSIyLjUiIHk9IjQiIHdpZHRoPSIxOSIgaGVpZ2h0PSIxNiIgcng9IjEuNSIvPjxsaW5lIHgxPSIyLjUiIHkxPSI4LjUiIHgyPSIyMS41IiB5Mj0iOC41Ii8+PGNpcmNsZSBjeD0iNS41IiBjeT0iNi4yNSIgcj0iMC42IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8+PGNpcmNsZSBjeD0iNy41IiBjeT0iNi4yNSIgcj0iMC42IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8+PC9zdmc+" height="25"/>
-  <img src="https://img.shields.io/badge/Pygame-6A5AF9?style=for-the-badge&logo=pygame&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Pygame-6A5AF9?style=for-the-badge&logo=python&logoColor=white" height="25"/>
 </p>
 
 </div>
@@ -57,17 +57,6 @@ class AbdulRehman:
 <br>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=C0ding-Craze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=C0ding-Craze&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=C0ding-Craze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ding-Craze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ding-Craze&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ding-Craze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=C0ding-Craze&theme=tokyonight&hide_border=true&background=0d1117" />
