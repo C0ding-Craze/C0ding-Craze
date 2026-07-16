@@ -49,8 +49,6 @@ class AbdulRehman:
 
 <br>
 
-## GitHub Stats
-
 <div align="center">
 
 <picture>
@@ -68,12 +66,6 @@ class AbdulRehman:
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=C0ding-Craze&theme=tokyonight&hide_border=true&background=0d1117" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=C0ding-Craze&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=C0ding-Craze&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=C0ding-Craze&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=C0ding-Craze&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0ding-Craze&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
 </picture>
 
 </div>
