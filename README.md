@@ -101,19 +101,3 @@ class AbdulRehman:
 | 💸 **[Personal Expense Tracker](https://github.com/C0ding-Craze/Personal-Expense-Tracker)** | Record, analyze & export expenses — MIT licensed CLI tool |
 
 <br>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always eager to collaborate, learn, and grow within the Python community — reach out anytime!
-
-<a href="https://www.linkedin.com/in/abdul-rehman-41302033b"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br>
-
-> *"Striving for excellence, one line of code at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:6A5AF9&height=100&section=footer" width="100%"/>
-
-</div>
