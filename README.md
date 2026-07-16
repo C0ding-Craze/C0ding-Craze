@@ -35,8 +35,6 @@ class AbdulRehman:
 
 <br>
 
-## Tech Stack
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,git,github,vscode&theme=dark&perline=6" />
